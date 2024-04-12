@@ -11,7 +11,7 @@ st.set_page_config(
 # Sample Questions
 IELTS_SAMPLE_QUESTION = "Write about the following topic.Some people think living in big cities is bad for people’s health.To what extent do you agree or disagree?Give reasons for your answer and include any relevant examples from your own knowledge or experience."
 TOEFL_SAMPLE_QUESTION = "How do we overcome stereotypes?"
-GENERAL_SAMPLE_QUESTION = "Today, some companies have online interviews for people who apply for jobs. Do you think this is a good idea?"
+GENERAL_SAMPLE_QUESTION = "The transition from a crib to a big-kid bed is described with mixed emotions. Can you think of another time in your childhood when you felt both excited and a little scared? How did you deal with those feelings?"
 
 # Sample Inputs
 IELTS_SAMPLE_INPUT = """
@@ -33,7 +33,7 @@ Spending time with these 12 girls at school fluctuated all the stereotypes that 
  To address the questions posed at the beginning, not all British people are tea enthusiasts, nor do they all talk like the Royal Family. My journey through the halls of a British school shattered these preconceived notions and replaced them with the vivid reality that individuals are defined by their unique stories, aspirations, and personalities. By embracing curiosity and open-mindedness, I believe we can embark upon a world where people are valued for their unique identities, rather than harmful generalizations. Our shared experiences, shared stories, and shared humanity, can be the keys to unlocking a world free from the shackles of stereotypes. 
 """
 GENERAL_SAMPLE_INPUT = """"
-I think doing job interviews on internet is a good idea. There are some reasons. First, people who is looking for jobs are usually very busy. So if they don't have to go to actual places to take interviews, it will save their time a lot. Second, Many people who is finding jobs are usually want to save money. If they can take online interviews, they can spare their money. From these reasons, I think online interviews are good.
+When I was 8 years old,I got on a bus alone for the first time to see my elementary school teacher who lived next to my town because I wanted to get on the bus.I did it with only a bit of information that his parents run a Tatami shop, but I didn’t feel much fear from the excitement of traveling alone.When I got to his house,he looked surprised,but he showed me around his house with smile. I saw a girl about my age there. He introduced her to me as his sister. When I arrived at the teacher’s house,I was not afraid of what to do if I made mistakes and I was even more excited to discover a new fact.
 """
 
 # Sample Evaluations
@@ -97,31 +97,37 @@ TOEFL_SAMPLE_EVALUATION = """"
 """
 GENERAL_SAMPLE_EVALUATION = """
 **CEFR Level:** A2
-**Score:** 70
+**Score:** 62
 
-**Balanced Feedback:**  
-Your writing does a great job of conveying your opinion on online interviews straightforwardly, with a clear structure leading your arguments. You've effectively used examples to support your viewpoints, which strengthens your argument. However, there are areas for improvement in grammar and coherence to elevate your writing further.
+**Balanced Feedback:**
 
-**Strengths:**  
-- **Clarity of Opinion:** You've made your stance on online interviews clear, which is excellent for persuasive writing.  
-- **Organization:** You structured your argument in a logical manner, introducing your thesis and then supporting it with examples.  
+Your writing vividly captures the adventure of traveling alone for the first time. The narrative flows well and conveys your mixed emotions effectively, making it an engaging read. The anecdote about visiting your teacher and the excitement you felt adds a personal touch that readers can relate to.
 
-**Areas to Grow:**
-- **Grammar and Usage:** Be mindful of verb agreement (e.g., ""people who is"" should be ""people who are"") and word choice (""on internet"" should be ""on the internet"").
-- **Vocabulary Enhancement:** Expanding your vocabulary and using varied sentence structures could make your writing more engaging.
-  
-**Enhanced Vocabulary Table:**
-| Current Expression | Suggested Advanced Phrase | Example Usage |
-|-------------------|---------------------------|---------------|
-| good idea         | beneficial                | I think doing job interviews on the internet is beneficial. |
-| looking for jobs  | job searching             | People job searching are often very busy. |
-| want to save money| seek to economize         | Many people looking for jobs seek to economize. |
+**Strengths:** 
+- Good use of past tense to recount the story, indicating a clear understanding of time-related narrative.
+- Ability to convey mixed emotions, demonstrating a grasp of the topic's nuances.
+- Clarity in expressing the sequence of events, making the story easy to follow.
 
-**Sample Improvement:**  
-I believe conducting job interviews over the internet is beneficial for several reasons. Firstly, individuals who are actively job searching are typically very busy. Therefore, if they can participate in interviews online and eliminate the need to travel physically, it will significantly save their time. Furthermore, many job seekers are also looking to economize. Online interviews allow them to save money, which might be spent on commuting or other expenses related to in-person interviews. Considering these points, online interviews offer a pragmatic solution for both employers and applicants.
+**Areas for Improvement:**
+- There are some grammatical inaccuracies and missing punctuation that could be improved for better clarity.
+- Consider expanding on how you dealt with your feelings or any reflections you had afterwards.
+- Using a variety of sentence structures can enhance the complexity and interest of your writing. 
 
-**Engagement and Motivation:**  
-Why not explore more about the impact of technology on various industries? You could write a short essay or paragraph about another technological innovation that has changed the way we work or live. This could help you practice your argumentative writing skills and explore new vocabulary.
+**Suggested Idioms and Advanced Phrases:**
+
+| Current Expression | Suggested Advanced Phrase                       | Example Usage                                               |
+|--------------------|-------------------------------------------------|-------------------------------------------------------------|
+| got on a bus alone | embarked on a solo journey by bus               | I embarked on a solo journey by bus to see my old teacher.  |
+| run a Tatami shop  | are proprietors of a Tatami shop                | I knew only that his parents are proprietors of a Tatami shop. |
+| looked surprised   | appeared taken aback                            | Upon my arrival, he appeared taken aback but welcomed me warmly.  |
+| showed me around   | gave me a guided tour                           | He gave me a guided tour of his house with a smile.          |
+| a new fact         | an interesting revelation                       | Discovering that he had a sister was an interesting revelation. |
+
+**Sample Answer:**
+When I was 8 years old, I embarked on a solo journey by bus for the first time to visit my elementary school teacher who lived in the town next to mine. My only clue to his residence was knowing his parents owned a Tatami shop. The excitement of travelling alone overshadowed any fear I had. Upon my arrival, he looked pleasantly surprised and warmly invited me to his home. During the visit, I met a girl about my age; he introduced her as his sister, adding an interesting revelation to my adventure. Despite the potential for making mistakes, I wasn't afraid and felt even more exhilarated by my discovery.
+
+**Engagement and Motivation:**
+Try writing a short story about another childhood adventure, focusing on describing settings and characters deeply to enrich your storytelling skills. Experimenting with metaphor and simile could also add depth to your descriptions, making your writing more vivid.
 """
 
 SAMPLE_QUESTIONS = {
