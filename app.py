@@ -96,38 +96,38 @@ TOEFL_SAMPLE_EVALUATION = """"
 **Continuous Improvement Plan:** Continue to read widely on topics related to cultural understanding and the psychology of stereotypes. Writing practice that focuses on discussing solutions to cultural misunderstandings or proposing methods for encouraging diversity and inclusion could be beneficial. Participating in forums or discussions on these topics can also offer new perspectives and vocabulary to incorporate into your writing.
 """
 GENERAL_SAMPLE_EVALUATION = """
-**CEFR Level:** A2
-**Score:** 62
+**CEFR Level:** B1  
+**Score:** 65
 
-**Balanced Feedback:**
+**Balanced Feedback:**  
+The narrative provides a clear recount of an adventurous childhood experience, effectively conveying the mixed emotions of excitement and trepidation. The level of detail regarding the journey and interaction captures interest and makes for an engaging read. Additionally, the courage and curiosity demonstrated are particularly compelling aspects of the story. 
 
-Your writing vividly captures the adventure of traveling alone for the first time. The narrative flows well and conveys your mixed emotions effectively, making it an engaging read. The anecdote about visiting your teacher and the excitement you felt adds a personal touch that readers can relate to.
+**Strengths:**  
+- **Creativity**: The ability to convey a personal experience in an engaging manner is commendable. The choice of a unique experience like traveling alone to visit a teacher is particularly notable.
+- **Storytelling**: You've successfully depicted the sequence of events and included elements that build a vivid picture of your adventure.
 
-**Strengths:** 
-- Good use of past tense to recount the story, indicating a clear understanding of time-related narrative.
-- Ability to convey mixed emotions, demonstrating a grasp of the topic's nuances.
-- Clarity in expressing the sequence of events, making the story easy to follow.
+**Areas for Improvement:**  
+- **Grammar and Sentence Structure**: There are several grammatical errors and instances of awkward phrasing that could be improved for better clarity and readability.  
+- **Vocabulary**: While the vocabulary used is adequate, diversifying and using more precise terms could greatly enhance the description and emotional expression within the story.
 
-**Areas for Improvement:**
-- There are some grammatical inaccuracies and missing punctuation that could be improved for better clarity.
-- Consider expanding on how you dealt with your feelings or any reflections you had afterwards.
-- Using a variety of sentence structures can enhance the complexity and interest of your writing. 
+**Suggested Idioms and Advanced Phrases:**  
+Incorporating advanced phrases and idioms can enrich your writing, making the narrative more vivid and expressive. Here's a short list to consider:
 
-**Suggested Idioms and Advanced Phrases:**
+**Enhanced Vocabulary Table:**
 
-| Current Expression | Suggested Advanced Phrase                       | Example Usage                                               |
-|--------------------|-------------------------------------------------|-------------------------------------------------------------|
-| got on a bus alone | embarked on a solo journey by bus               | I embarked on a solo journey by bus to see my old teacher.  |
-| run a Tatami shop  | are proprietors of a Tatami shop                | I knew only that his parents are proprietors of a Tatami shop. |
-| looked surprised   | appeared taken aback                            | Upon my arrival, he appeared taken aback but welcomed me warmly.  |
-| showed me around   | gave me a guided tour                           | He gave me a guided tour of his house with a smile.          |
-| a new fact         | an interesting revelation                       | Discovering that he had a sister was an interesting revelation. |
+| Current Expression | Suggested Advanced Phrase | Example Usage |
+|-------------------|---------------------------|---------------|
+| got on a bus | embarked on a bus journey | "At the age of 8, I eagerly embarked on a bus journey alone to visit my elementary school teacher." |
+| didn’t feel much fear | was buoyed by excitement | "Despite the uncertainties, I was buoyed by excitement over my solo adventure." |
+| looked surprised | appeared taken aback | "Upon my arrival, he appeared taken aback but welcomed me with a warm smile." |
+| showed me around | gave me a tour of | "He graciously gave me a tour of his home, exhibiting great hospitality." |
+| I saw a girl | I encountered a girl | "During the visit, I encountered a girl about my age, who he introduced as his sister." |
 
 **Sample Answer:**
-When I was 8 years old, I embarked on a solo journey by bus for the first time to visit my elementary school teacher who lived in the town next to mine. My only clue to his residence was knowing his parents owned a Tatami shop. The excitement of travelling alone overshadowed any fear I had. Upon my arrival, he looked pleasantly surprised and warmly invited me to his home. During the visit, I met a girl about my age; he introduced her as his sister, adding an interesting revelation to my adventure. Despite the potential for making mistakes, I wasn't afraid and felt even more exhilarated by my discovery.
+- When I was 8 years old, I embarked on a bus journey alone for the first time to visit my elementary school teacher, who resided in the neighboring town. My sole clue was that his parents ran a Tatami shop. However, the thrill of traveling alone overshadowed any apprehensions. Upon reaching his abode, he appeared taken aback but immediately welcomed me with a warm smile. During my visit, I encountered a young girl, introduced as his sister, adding a delightful twist to my adventure. My initial fears were quickly forgotten, replaced by excitement and the joy of uncovering new facts.
 
-**Engagement and Motivation:**
-Try writing a short story about another childhood adventure, focusing on describing settings and characters deeply to enrich your storytelling skills. Experimenting with metaphor and simile could also add depth to your descriptions, making your writing more vivid.
+**Engagement and Motivation:**  
+To further enhance your ability to express personal experiences vividly, try writing about another memorable event from your childhood using the suggested advanced phrases. Reflect on how these expressions can alter the tone and depth of your narrative.
 """
 
 SAMPLE_QUESTIONS = {
